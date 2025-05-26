@@ -5,18 +5,18 @@ This project explores the application of Federated Learning (FL) to develop stro
 We evaluate multiple federated settings and aggregation strategies, measuring performance through metrics such as accuracy, precision, recall, and AUC-ROC. The results show that FL is a practical and effective solution for real-world healthcare systems, especially where data privacy is critical.
 
 **🛠 Tools & Technologies Used**
-Python – Core programming language
+- Python – Core programming language
 
-TensorFlow Federated (TFF) – For implementing federated learning workflows
+- TensorFlow Federated (TFF) – For implementing federated learning workflows
 
-Pandas & NumPy – Data preprocessing and manipulation
+- Pandas & NumPy – Data preprocessing and manipulation
 
-Scikit-learn – Evaluation metrics and baseline models
+- Scikit-learn – Evaluation metrics and baseline models
 
-Matplotlib & Seaborn – Data visualization
+- Matplotlib & Seaborn – Data visualization
 
-Jupyter Notebook – Experiment tracking and iterative development
+- Jupyter Notebook – Experiment tracking and iterative development
 
-Federated Averaging – Model aggregation strategy
+- Federated Averaging – Model aggregation strategy
 
-Google Colab / Local Setup – For training and evaluation
+- Google Colab / Local Setup – For training and evaluation
